@@ -57,7 +57,7 @@ EduBlock-Academic-Certificate-Verification/
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/incilia/EduBlock-A-Secure-Blockchain-Solution-for-Academic-Certificate-Verification.git
+git clone https://github.com/Vaishnavitayde2036/EduBlock-A-Secure-Blockchain-Solution-for-Academic-Certificate-Verification.git
 cd EduBlock-A-Secure-Blockchain-Solution-for-Academic-Certificate-Verification
 ```
 
